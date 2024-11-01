@@ -4,7 +4,7 @@
 *
 
 # Unignore node_modules
-!node_modules/
+node_modules/
 
 # Ignore specific files and folders
 /.pnp
